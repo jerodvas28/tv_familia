@@ -4,6 +4,6 @@
 
 https://cdn01.yowi.tv/KPFPGJU8A6/live-600.m3u8
 
-#EXTINF:-2 ,"Cristo Vision" tvg-logo="https://storage.cdnmedia.tv/userdata/cristovision/pictures/LOGO-CTV.png" 
+#EXTINF:-2 ,Cristo Vision tvg-logo=https://storage.cdnmedia.tv/userdata/cristovision/pictures/LOGO-CTV.png 
 
 https://liveingesta118.cdnmedia.tv/cristovisionlive/smil:live.smil/chunklist_b750000.m3u8
