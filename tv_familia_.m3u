@@ -1,7 +1,3 @@
 #EXTM3U
-
-#EXTINF:-1 ,"TV_FAMILIA"
-
-
-
+#EXTINF:-1,TV_FAMILIA1
 https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/chunklist_w901833742.m3u8
